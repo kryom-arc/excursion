@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(10, 10, 10);
+  margin: auto;
+  width: 67%;
+  font-family: verdana;
+  text-align: center;
+  color: white;
+}
+/* -- header ----------------------------------------------------- */
+  header {
+    background-color: black;
+    margin: 0;
+  }
+    h1 {
+      font-weight: normal;
+      font-size: 50px;
+    }
+    a {
+      font-size: 16px;
+      color: aquamarine;
+    }
+
+/* -- main ------------------------------------------------------- */
+  main {
+    background-color: black;
+    margin: 0;
+  }
+    video {
+      margin: 1vw auto;
+    }
+    h2 {
+      font-weight: 300;
+      font-size: 42px;
+    }
+    p {
+      font-size: 21px;
+      color: gray;
+    }
+    img {
+      display: block;
+      margin: 2vw auto;
+    }
+/* -- footer ----------------------------------------------------- */
+  footer {
+    background-color: black;
+    margin: -2vw 0 0;
+    padding-bottom: 1vw;
+  }
+    footer p {
+      margin: 1vw 1vw;
+      padding: 1vw 0 0;
+      text-align: right;
+    }
